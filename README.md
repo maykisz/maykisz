@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/red-lotus-png-64Aqb8R" />
+  <img align="center" height="150" src="https://i.imgur.com/f4RbfN0.png" />
 </div>
 
 <div align="center">
