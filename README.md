@@ -76,7 +76,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=maykisz&style=flat-square&color=755b25" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=maykisz&color=blueviolet" /></p> 
 </div>
 
 <br>
