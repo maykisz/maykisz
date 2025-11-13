@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="https://imgur.com/gallery/espada-maya-antigua-ancient-mayan-sword-Qf716Zt#/t/png" />
 </div>
 
 <div align="center">
@@ -17,15 +17,9 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c11212&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of++Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
-      
 <br>
 <br>
       
