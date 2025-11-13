@@ -24,11 +24,11 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=maykisz&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka&color=c11212"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykisz&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage&color=c11212"/>
+  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maykisz&theme=midnight_purple"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-streak-stats.herokuapp.com?user=maykisz&theme=midnight-purple)](https://git.io/streak-stats"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=ayu_mirage"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maykisz&theme=midnight_purple"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
