@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/f4RbfN0.png" />
+  <img align="center" height="150" src="https://comandogeek.com.br/blog/wp-content/uploads/2025/05/Novo-visual-de-Gojo-com-Vazio-Roxo-empolga-fas-para-o-filme.png" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c11212&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of++Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of++Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
