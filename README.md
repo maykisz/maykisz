@@ -1,11 +1,5 @@
 
 <br>
-<br>
-<br>
-
-<div align="center">
-  <img align="center" height="150" src="https://comandogeek.com.br/blog/wp-content/uploads/2025/05/Novo-visual-de-Gojo-com-Vazio-Roxo-empolga-fas-para-o-filme.png" />
-</div>
 
 <div align="center">
   
@@ -25,7 +19,7 @@
       
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maykisz&theme=midnight_purple"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-streak-stats.herokuapp.com?user=maykisz&theme=midnight-purple)](https://git.io/streak-stats"/>
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maykisz&theme=midnight_purple"/>
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maykisz&theme=midnight_purple"/>
@@ -68,8 +62,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maykubb777@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/maykisz_/?next=%2F)
+  [![Gmail](https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maykubb777@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/maykisz_/?next=%2F)
   
 </div>
 
