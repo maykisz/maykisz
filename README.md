@@ -62,7 +62,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maykubb777@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=fff)]([mailto:maykubb777@gmail.com](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcRwQLwLHHcLMPSwxpjgPnrGcDbKfkSPBgTxHKsXqZJMTPLdcfzvSsSnGgJqlZcMFmchvQnNx))
   [![Instagram](https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/maykisz_/?next=%2F)
   
 </div>
