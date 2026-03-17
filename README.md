@@ -27,20 +27,15 @@
 
 <samp>
       <br>
-      <b>Tecnologias</b>
-  🔧 Back-end
-  🌐 Front-end
-  🗄️ Banco de Dados
-  ⚒ Ferramentas utilizadas
-</samp>
+      <b>Tecnologias</b></samp>
 <div align="center" style="display: inline_block"><br>
 
   <div align="center" width="100%">
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Back+-+end"alt="Typing SVG"/>
+  </div>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  </div>
 
   <div align="center" width="100%">
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Front+-+end"alt="Typing SVG"/>
