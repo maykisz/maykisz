@@ -32,7 +32,7 @@
 
   <!-- Back-end -->
   <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Back+-+end" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&duration=2000&pause=1000&lines=Back+-+end" />
     <br><br>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -43,7 +43,7 @@
 
   <!-- Front-end -->
   <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Front+-+end" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&duration=2000&pause=1000&lines=Front+-+end" />
     <br><br>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -55,7 +55,7 @@
 
   <!-- Banco de Dados -->
   <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Banco+de+Dados" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&duration=2000&pause=1000&lines=Banco+de+Dados" />
     <br><br>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
@@ -65,7 +65,7 @@
 
   <!-- Ferramentas -->
   <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Ferramentas+-+Utilizadas" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&duration=2000&pause=1000&lines=Ferramentas+-+Utilizadas" />
     <br><br>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
