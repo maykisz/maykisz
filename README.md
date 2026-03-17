@@ -28,48 +28,52 @@
 <samp>
       <br>
       <b>Tecnologias</b></samp>
-<div align="center" style="display: inline_block"><br>
+<div align="center">
 
-  <!-- Back-end -->
-  <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&duration=2000&pause=1000&lines=Back+-+end" />
-    <br><br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <div style="display:flex; justify-content:center; gap:80px; flex-wrap:wrap;">
+
+    <!-- Back-end -->
+   <div>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=300&size=22&center=true&pause=1000&loop=false&lines=Back+-+end"/>
+  <br><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </div>
 
-  <br>
-
-  <!-- Front-end -->
-  <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&duration=2000&pause=1000&lines=Front+-+end" />
-    <br><br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<!-- Front-end -->
+  <div>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=300&size=22&center=true&pause=1000&loop=false&lines=Front+-+end"/>
+  <br><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   </div>
 
-  <br>
-
-  <!-- Banco de Dados -->
-  <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&duration=2000&pause=1000&lines=Banco+de+Dados" />
-    <br><br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </div>
 
-  <br>
+  <br><br>
 
-  <!-- Ferramentas -->
-  <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&duration=2000&pause=1000&lines=Ferramentas+-+Utilizadas" />
-    <br><br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <div style="display:flex; justify-content:center; gap:80px; flex-wrap:wrap;">
+
+    <!-- Banco de Dados -->
+  <div>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=300&size=22&center=true&pause=1000&loop=false&lines=Banco+de+Dados"/>
+  <br><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  </div>
+
+<!-- Ferramentas -->
+  <div>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=300&size=22&center=true&pause=1000&loop=false&lines=Ferramentas+-+Utilizadas"/>
+  <br><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  </div>
+
   </div>
 
 </div>
