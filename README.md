@@ -139,19 +139,6 @@ Cinematic posters and high-impact creative visuals.
 </td>
 
 </tr>
-</table>
-
-</div>
-**Databases**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=light"/><br>
-<img src="https://cdn.simpleicons.org/oracle/000000" width="38"/>
-
-</td>
-
-<td align="center" width="220">
 
 **Design**
 
