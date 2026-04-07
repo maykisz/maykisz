@@ -47,8 +47,6 @@ Automation system for scheduling, dynamic flows and business personalization.
 
 <td width="350">
 
-<img src="https://via.placeholder.com/350x200?text=Landing+Page" width="100%"/>
-
 ### Landing Pages
 
 High-converting pages with modern UI, animations and performance optimization.
@@ -64,7 +62,6 @@ High-converting pages with modern UI, animations and performance optimization.
 
 <td width="350">
 
-<img src="https://files.fm/u/tsr7ryx929" width="100%"/>
 
 ### Dashboard Systems
 
@@ -76,8 +73,6 @@ Admin panels with analytics, filters and clean UI systems.
 </td>
 
 <td width="350">
-
-<img src="https://via.placeholder.com/350x200?text=Design+Work" width="100%"/>
 
 ### Visual Design
 
@@ -150,20 +145,6 @@ Cinematic posters and high-impact creative visuals.
 </table>
 
 </div>
-
----
-
-## 📊 Metrics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=maykisz&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykisz&layout=compact&theme=default&hide_border=true"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
