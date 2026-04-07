@@ -64,7 +64,7 @@ High-converting pages with modern UI, animations and performance optimization.
 
 <td width="350">
 
-<img src="[https://via.placeholder.com/350x200?text=Dashboard](https://files.fm/u/tsr7ryx929)" width="100%"/>
+<img src="https://files.fm/u/tsr7ryx929" width="100%"/>
 
 ### Dashboard Systems
 
