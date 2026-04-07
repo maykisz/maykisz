@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="SUA_IMAGEM_AQUI" width="100%"/>
-
 <br><br>
 
 # Maykon Oliveira
@@ -35,7 +32,6 @@ Focused on **scalability, clean architecture and user experience**, creating sys
 
 <td width="350">
 
-<img src="https://via.placeholder.com/350x200?text=Bot+System" width="100%"/>
 
 ### Bot System Platform
 
@@ -48,7 +44,6 @@ Automation system for scheduling with dynamic flows and multi-business support.
 
 <td width="350">
 
-<img src="https://via.placeholder.com/350x200?text=Landing+Page" width="100%"/>
 
 ### Landing Pages
 
@@ -65,7 +60,6 @@ Modern, high-converting pages with strong UI and smooth animations.
 
 <td width="350">
 
-<img src="https://via.placeholder.com/350x200?text=Dashboard" width="100%"/>
 
 ### Dashboard Systems
 
@@ -78,7 +72,6 @@ Data-driven admin panels with analytics and clean UI systems.
 
 <td width="350">
 
-<img src="https://via.placeholder.com/350x200?text=Design+Work" width="100%"/>
 
 ### Visual Design
 
@@ -153,13 +146,6 @@ Cinematic visuals, posters and branding-focused design.
 
 ## 📊 Metrics
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=maykisz&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykisz&layout=compact&theme=default&hide_border=true"/>
-
-<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maykisz&theme=default"/>
 
