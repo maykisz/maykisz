@@ -104,7 +104,7 @@ Cinematic posters and high-impact creative visuals.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,js,git&theme=light"/>
+<img src="https://skillicons.dev/icons?i=java,nodejs,docker,git&theme=light"/>
 
 </td>
 
@@ -114,12 +114,34 @@ Cinematic posters and high-impact creative visuals.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light"/>
 
 </td>
 
 <td align="center" width="220">
 
+**Databases**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light"/>
+
+</td>
+
+<td align="center" width="220">
+
+**Design**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ps,ae,ai&theme=light"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 **Databases**
 
 <br>
