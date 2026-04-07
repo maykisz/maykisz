@@ -93,13 +93,6 @@ Cinematic posters and high-impact creative visuals.
 
 ## 🧠 Tech Stack
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="220">
-
 **Back-end**
 
 <br>
