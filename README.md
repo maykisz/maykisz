@@ -1,45 +1,104 @@
 <div align="center">
 
+<img src="SUA_IMAGEM_AQUI" width="100%"/>
+
+<br><br>
+
 # Maykon Oliveira
 
 <samp>
-Full-Stack Developer • Designer • Systems Student
+Full-Stack Developer • Product Builder • Designer
 </samp>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=20&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Building+modern+digital+experiences;Focused+on+performance+and+design;Always+learning+and+evolving" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=480&lines=Building+scalable+digital+products;Focused+on+performance+%26+UX;Automation+%2B+Design+driven;Shipping+real+solutions" />
 
 </div>
 
 ---
 
-## About
+## Overview
 
-- Focused on **full-stack development and UI/UX**
-- Passionate about **design, automation and scalable systems**
-- Constant evolution in **clean code, performance and visual experience**
-- Based in Brazil
+I design and develop **high-performance digital products** combining  
+engineering, design and product thinking.
+
+Focused on **scalability, UX and real-world applications**.
 
 ---
 
-## GitHub Analytics
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=maykisz&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000"/>
+<table>
+<tr>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykisz&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=000000"/>
+<td width="350">
 
-<br>
+<img src="https://via.placeholder.com/350x200?text=Bot+System" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maykisz&theme=default"/>
+### Bot System Platform
+
+Automation system for scheduling, dynamic flows and business personalization.
+
+**Tech:** Node.js • APIs • Automation  
+**Focus:** scalability, real-time systems
+
+</td>
+
+<td width="350">
+
+<img src="https://via.placeholder.com/350x200?text=Landing+Page" width="100%"/>
+
+### Landing Pages
+
+High-converting pages with modern UI, animations and performance optimization.
+
+**Tech:** HTML • CSS • JS • React  
+**Focus:** UX, speed, responsiveness
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="350">
+
+<img src="https://via.placeholder.com/350x200?text=Dashboard" width="100%"/>
+
+### Dashboard Systems
+
+Admin panels with analytics, filters and clean UI systems.
+
+**Tech:** React • APIs  
+**Focus:** usability, data clarity
+
+</td>
+
+<td width="350">
+
+<img src="https://via.placeholder.com/350x200?text=Design+Work" width="100%"/>
+
+### Visual Design
+
+Cinematic posters and high-impact creative visuals.
+
+**Tools:** Photoshop • After Effects  
+**Focus:** storytelling, branding
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -73,7 +132,7 @@ Full-Stack Developer • Designer • Systems Student
 <br>
 
 <img src="https://skillicons.dev/icons?i=mongodb&theme=light"/><br>
-<img src="https://cdn.simpleicons.org/oracle/000000" width="40"/>
+<img src="https://cdn.simpleicons.org/oracle/000000" width="38"/>
 
 </td>
 
@@ -84,8 +143,8 @@ Full-Stack Developer • Designer • Systems Student
 <br>
 
 <img src="https://skillicons.dev/icons?i=figma&theme=light"/><br>
-<img src="https://cdn.simpleicons.org/adobephotoshop/000000" width="40"/>
-<img src="https://cdn.simpleicons.org/adobeaftereffects/000000" width="40"/>
+<img src="https://cdn.simpleicons.org/adobephotoshop/000000" width="38"/>
+<img src="https://cdn.simpleicons.org/adobeaftereffects/000000" width="38"/>
 
 </td>
 
@@ -96,7 +155,28 @@ Full-Stack Developer • Designer • Systems Student
 
 ---
 
-## Contact
+## 📊 Metrics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=maykisz&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykisz&layout=compact&theme=default&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable automation systems  
+- Improving product-level UI/UX  
+- Creating real-world applications  
+- Expanding into SaaS  
+
+---
+
+## 📬 Contact
 
 <div align="center">
 
