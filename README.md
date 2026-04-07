@@ -36,8 +36,6 @@ Focused on **scalability, UX and real-world applications**.
 
 <td width="350">
 
-<img src="https://via.placeholder.com/350x200?text=Bot+System" width="100%"/>
-
 ### Bot System Platform
 
 Automation system for scheduling, dynamic flows and business personalization.
