@@ -12,7 +12,7 @@ Full-Stack Developer • Product Builder • Designer
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=480&lines=Building+scalable+digital+products;Focused+on+performance+%26+UX;Automation+%2B+Design+driven;Shipping+real+solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=480&lines=Building+scalable+systems;Focused+on+performance+%26+UX;Automation+driven+development;Design+meets+code" />
 
 </div>
 
@@ -20,10 +20,9 @@ Full-Stack Developer • Product Builder • Designer
 
 ## Overview
 
-I design and develop **high-performance digital products** combining  
-engineering, design and product thinking.
+I build **high-performance digital products** combining development, design and product thinking.
 
-Focused on **scalability, UX and real-world applications**.
+Focused on **scalability, clean architecture and user experience**, creating systems that are both functional and visually impactful.
 
 ---
 
@@ -36,23 +35,27 @@ Focused on **scalability, UX and real-world applications**.
 
 <td width="350">
 
+<img src="https://via.placeholder.com/350x200?text=Bot+System" width="100%"/>
+
 ### Bot System Platform
 
-Automation system for scheduling, dynamic flows and business personalization.
+Automation system for scheduling with dynamic flows and multi-business support.
 
-**Tech:** Node.js • APIs • Automation  
-**Focus:** scalability, real-time systems
+**Stack:** Node.js • APIs • Automation  
+**Focus:** scalability, real-time logic
 
 </td>
 
 <td width="350">
 
+<img src="https://via.placeholder.com/350x200?text=Landing+Page" width="100%"/>
+
 ### Landing Pages
 
-High-converting pages with modern UI, animations and performance optimization.
+Modern, high-converting pages with strong UI and smooth animations.
 
-**Tech:** HTML • CSS • JS • React  
-**Focus:** UX, speed, responsiveness
+**Stack:** HTML • CSS • React • Tailwind  
+**Focus:** UX, responsiveness, performance
 
 </td>
 
@@ -62,24 +65,27 @@ High-converting pages with modern UI, animations and performance optimization.
 
 <td width="350">
 
+<img src="https://via.placeholder.com/350x200?text=Dashboard" width="100%"/>
 
 ### Dashboard Systems
 
-Admin panels with analytics, filters and clean UI systems.
+Data-driven admin panels with analytics and clean UI systems.
 
-**Tech:** React • APIs  
-**Focus:** usability, data clarity
+**Stack:** React • APIs  
+**Focus:** usability, clarity
 
 </td>
 
 <td width="350">
 
+<img src="https://via.placeholder.com/350x200?text=Design+Work" width="100%"/>
+
 ### Visual Design
 
-Cinematic posters and high-impact creative visuals.
+Cinematic visuals, posters and branding-focused design.
 
-**Tools:** Photoshop • After Effects  
-**Focus:** storytelling, branding
+**Tools:** Photoshop • After Effects • Illustrator  
+**Focus:** storytelling, impact
 
 </td>
 
@@ -92,6 +98,13 @@ Cinematic posters and high-impact creative visuals.
 ---
 
 ## 🧠 Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="220">
 
 **Back-end**
 
@@ -132,27 +145,33 @@ Cinematic posters and high-impact creative visuals.
 </td>
 
 </tr>
-
-**Design**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=figma&theme=light"/><br>
-<img src="https://cdn.simpleicons.org/adobephotoshop/000000" width="38"/>
-<img src="https://cdn.simpleicons.org/adobeaftereffects/000000" width="38"/>
-
-</td>
-
-</tr>
 </table>
 
 </div>
 
+---
+
+## 📊 Metrics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=maykisz&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykisz&layout=compact&theme=default&hide_border=true"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maykisz&theme=default"/>
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 - Building scalable automation systems  
-- Improving product-level UI/UX  
-- Creating real-world applications  
+- Improving UI/UX for real products  
+- Developing production-ready applications  
 - Expanding into SaaS  
 
 ---
