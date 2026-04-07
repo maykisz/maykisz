@@ -1,30 +1,37 @@
-<br>
-
 <div align="center">
 
-# 👾 Maykon Oliveira
+# Maykon Oliveira
 
-<b>プログラマ • Developer • Designer</b>
+**Developer • Designer • Systems Student**
 
 <samp>
-Hi there! Welcome to my profile 👋
+Building modern experiences through code, design and creativity.
 </samp>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=24&duration=3000&pause=1200&color=A020F0&center=true&vCenter=true&width=700&lines=Developer+from+Brazil;Systems+Development+Student;Creative+Designer;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+Designer;Systems+Development+Student;Crafting+Digital+Experiences" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 About Me
+
+- 🎯 Focused on **Full-Stack Development & UI/UX**
+- 💡 Passionate about **design, automation and scalable systems**
+- 🧠 Constantly evolving in **performance, clean code and visual impact**
+- 🇧🇷 Based in Brazil
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maykisz&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maykisz&show_icons=true&theme=midnight-purple&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykisz&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykisz&layout=compact&theme=midnight-purple&hide_border=true&title_color=8A2BE2"/>
 
 <br>
 
@@ -34,54 +41,51 @@ Hi there! Welcome to my profile 👋
 
 ---
 
-# ⚡ Technologies
+## 🧠 Tech Stack
 
 <div align="center">
 
-### 🖥 Back-end
+### Back-end
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<br><br>
 
-<br>
-<br>
+### Front-end
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
-### 🎨 Front-end
+<br><br>
 
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+### Databases
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
-<br>
-<br>
+<br><br>
 
-### 🗄 Databases
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-
-<br>
-<br>
-
-### 🛠 Tools
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+### Design & Tools
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 </div>
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maykubb777@gmail.com)
+<a href="mailto:maykubb777@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maykisz_/)
+<a href="https://www.instagram.com/maykisz_/">
+  <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
@@ -89,8 +93,6 @@ Hi there! Welcome to my profile 👋
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=maykisz&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=maykisz&color=8A2BE2&style=for-the-badge"/>
 
 </div>
-
-<br>
