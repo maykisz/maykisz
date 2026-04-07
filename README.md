@@ -145,7 +145,7 @@ Cinematic visuals, posters and branding-focused design.
 ---
 
 ## 📊 Metrics
-
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maykisz&theme=default"/>
 
